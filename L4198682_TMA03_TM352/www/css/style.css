@@ -1,0 +1,46 @@
+
+  /* Heading styles */
+  h2, h3 {
+    font-size: 17px; /* Adjust the font size as needed */
+    margin: 3px;
+  }
+
+  /* Input field styles */
+  input[type="text"], input[type="datetime-local"], select {
+    font-size: 12px; /* Adjust the font size as needed */
+    padding: 2px; /* Add padding around the input fields */
+  }
+
+  /* Button styles */
+  button {
+    font-size: 11px; /* Adjust the font size as needed */
+    padding: 2px 2px; /* Add padding around the buttons */
+  }
+ 
+  #mapContainer {
+    width: 320px; /* Adjust the width */
+    height: 150px; /* Adjust the height */
+    border: 1px solid #000; /* Add a thin border */
+    margin: 0 left;
+    overflow: hidden; /* Hide any overflow */
+  }
+
+  /* Map display text styles */
+  #mapContainer h3 {
+    margin: 0; /* Remove default margin */
+    text-align: left; /* Center the text */
+    padding: 10px; /* Add padding around the text */
+  }
+
+  #cancel p, #update p {
+    margin-bottom: 3px; /*  margin bottom to reduce vertical space */
+  }
+
+  /* Button styles */
+  #cancel button, #update button {
+    margin-top: 2px; /* margin top to reduce vertical space between buttons and paragraphs */
+  }
+
+  #update button{
+    margin-bottom: 4px;
+  }
