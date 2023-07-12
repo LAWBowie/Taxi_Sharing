@@ -4,7 +4,7 @@
 - I have provided screenshots to show the app functioning.
 
 ## Technologies 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,jquery)](https://skillicons.dev)
 
 
 Please Note:
